@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name">Github User</string>
+    <string name="name">Nama</string>
+    <string name="username">Username</string>
+    <string name="image_user">Image User</string>
+    <string name="github">Github</string>
+    <string name="location">Lokasi</string>
+    <string name="company">Perusahaan</string>
+    <string name="count">0</string>
+    <string name="followers_info">followers</string>
+    <string name="following_info">following</string>
+    <string name="image_location">Image Location</string>
+    <string name="image_company">Image Company</string>
+    <string name="repository_info">repository</string>
+    <string name="share">Share</string>
+    <string name="find_github_user">Find Github User</string>
+    <string name="tab_text_1">Followers</string>
+    <string name="tab_text_2">Following</string>
+    <string name="image_search_user">Image Search User</string>
+    <string name="title_search">Let\'s start exploring Github User!</string>
+    <string name="subtitle_search">All searched github user data will be displayed here</string>
+    <string name="text_loading">Looking for data</string>
+    <string name="search_username">Search Username</string>
+    <string name="title_welcome">Welcome</string>
+    <string name="loading_data">Loading data</string>
+    <string name="title_empty_data">Lorem ipsum dolor sit amet</string>
+    <string name="subtitle_empty_data">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin sed ornare justo</string>
+    <string name="not_known">-</string>
+    <string name="title_result_not_found">No result found</string>
+    <string name="subtitle_result_not_found">Try adjusting your searching to find what you are looking for</string>
+    <string name="title_no_followers">Have no followers</string>
+    <string name="subtitle_no_followers">This account has no followers</string>
+    <string name="title_no_following">Don\'t follow anyone</string>
+    <string name="subtitle_no_following">This account doesn\'t follow anyone</string>
+    <string name="dark_mode">Dark Mode</string>
+    <string name="tab_home">Home</string>
+    <string name="tab_favorite">Favorite</string>
+    <string name="tab_setting">Setting</string>
+    <string name="add_user">Add User</string>
+    <string name="title_no_favorite">Your favorite list is empty</string>
+    <string name="subtitle_no_favorite">Please search and add users to see the list of favorites</string>
+    <string name="add_successfully">The user has been successfully added to the favorites list</string>
+    <string name="delete_successfully">The user has been successfully removed from the favorites list</string>
+
+</resources>
