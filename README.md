@@ -33,6 +33,9 @@ This repository is the last submission in [Dicoding](https://www.dicoding.com/ac
         width="250" />
 </p>
 
+## Rating
+Rating review : ★★★★★ (5 Stars)
+
 ## Feature 
 Some of the features in this application
 - Search username github
