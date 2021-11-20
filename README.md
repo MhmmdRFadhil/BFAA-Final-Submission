@@ -2,6 +2,9 @@
 
 This repository is the last submission in [Dicoding](https://www.dicoding.com/academies/14)
 
+## MAD SCORE
+![alt text](https://github.com/MhmmdRFadhil/BFAA-Final-Submission/blob/master/Screenshot/summary.png)
+
 ## Screenshot
 <p align="center">
   <img src="/Screenshot/Splashscreen.jpg"
@@ -29,6 +32,9 @@ This repository is the last submission in [Dicoding](https://www.dicoding.com/ac
         style="margin-right: 50px;"    
         width="250" />
 </p>
+
+## Rating
+Rating review : ★★★★★ (5 Stars)
 
 ## Feature 
 Some of the features in this application
