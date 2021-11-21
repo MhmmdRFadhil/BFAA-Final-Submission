@@ -41,6 +41,7 @@ Some of the features in this application
 - Search username github
 - Dark mode theme
 - Favorite user 
+- Etc
 
 ## Library 
 Some of the libraries used in this application
