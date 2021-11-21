@@ -44,7 +44,7 @@ Some of the features in this application
 
 ## Library 
 Some of the libraries used in this application
-- AndroiX
+- AndroidX
 - Lottie
 - Glide
 - ShapeOfView
