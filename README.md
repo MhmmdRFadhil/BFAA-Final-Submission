@@ -1,6 +1,7 @@
 # Belajar Fundamental Aplikasi Android Final Submission
 
-This repository is the final submission in [Dicoding](https://www.dicoding.com/academies/14)
+This repository is the final submission in [Dicoding](https://www.dicoding.com/academies/14) <br><br>
+[![Platform](https://img.shields.io/badge/platform-Android-green.svg)](http://developer.android.com/index.html)
 
 ## MAD SCORE
 ![alt text](https://github.com/MhmmdRFadhil/BFAA-Final-Submission/blob/master/Screenshot/summary.png)
